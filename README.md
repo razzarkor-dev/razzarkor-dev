@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Raz 👋
 
-<!--
-**razzarkor-dev/razzarkor-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Administration & Information Systems student at Ono Academic College (started 2026).
+I'm focused on data analysis, BI, and practical AI integration for businesses.
 
-Here are some ideas to get you started:
+Currently working in application support for a nationwide public-transport payment system,
+where I learned how real production systems break — and how to fix them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools I work with
+
+- **Data:** SQL (PostgreSQL), Excel, Power BI (learning)
+- **Development:** JavaScript, Node.js, Express, React, MongoDB
+- **Automation & AI:** Make, Claude, AI agents
+
+## 🌱 Currently
+
+- Building automation solutions for small businesses
+- Learning full-stack development and BI as part of my degree
+
+## 📂 Selected projects
+
+_Coming soon — first projects are being built this semester._
